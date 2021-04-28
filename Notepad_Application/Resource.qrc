@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/about.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/new.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/save as.png</file>
+        <file>icons/save.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/delete.jfif</file>
+        <file>icons/cut.png</file>
+        <file>icons/Bold.png</file>
+        <file>icons/Italics.png</file>
+        <file>icons/Print.png</file>
+        <file>icons/Underline.png</file>
+    </qresource>
+</RCC>
